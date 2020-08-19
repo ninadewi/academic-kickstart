@@ -1,6 +1,8 @@
 ---
 title: Publications
 
+New publication in Ethnos
+
 # View.
 #   1 = List
 #   2 = Compact
