@@ -21,9 +21,10 @@ organizations:
 bio: My research interests include biometric technologies, surveillance, the nation-state and its borders.
 
 interests:
-- Biometric technologies
+- Biometric identification
 - Surveillance
-- The nation-state and its borders
+- Immigration and borders
+- Ethics, technology and society
 
 education:
   courses:
