@@ -27,6 +27,9 @@ interests:
 
 education:
   courses:
+  - course: PhD in Anthropology
+    institution: Stanford University
+    year: in progress
   - course: MA in Anthropology
     institution: Stanford University
     year: 2019
