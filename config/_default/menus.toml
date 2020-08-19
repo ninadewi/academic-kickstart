@@ -14,7 +14,7 @@
   weight = 20
 
 [[main]]
-  name = "Scoot"
+  name = "Contact"
   url = "#contact"
   weight = 30
 
@@ -25,7 +25,3 @@
     url = "cv.pdf"
     weight = 40
     
-[[main]]
-  name = "Test"
-  url = "http://www.google.com"
-  weight = 50
