@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-My research examines how technology — such as facial recognition, biometric scanners, satellites, and drones — is applied in border management and law enforcement. I am interested in how these technologies mediate the way that knowledge about populations is produced and how these technologies extend bordering logics and practices beyond the territorial boundary line. 
+My research uses ethnographic methods to better understand the intersection of politics and technology. In particular, I examine how surveillance technology — such as facial recognition and biometric identification — is applied in border management and law enforcement. 
