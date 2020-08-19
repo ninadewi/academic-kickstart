@@ -27,5 +27,5 @@
     
 [[main]]
   name = "Test"
-  url = "#experience"
+  url = "http://www.google.com"
   weight = 50
