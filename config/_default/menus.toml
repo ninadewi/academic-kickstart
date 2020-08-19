@@ -25,6 +25,7 @@
     url = "cv.pdf"
     weight = 70
     
+[[main]]
   name = "Test"
   url = "#publications"
   weight = 80
