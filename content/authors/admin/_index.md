@@ -71,6 +71,4 @@ user_groups:
 - Visitors
 ---
 
-My research uses ethnographic methods to better understand the intersection of politics and technology. In particular, I examine how surveillance technology — such as facial recognition and biometric identification — is applied in border management and law enforcement. 
-
-Previously, I worked in the field of climate change research and sustainable development. 
+My research uses ethnographic methods to better understand the intersection of politics and technology. In particular, I examine how surveillance technology — such as facial recognition and biometric identification — is applied in border management and law enforcement. Previously, I worked in the field of climate change research and sustainable development. 
